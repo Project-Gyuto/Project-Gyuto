@@ -1,0 +1,7 @@
+{
+  "template": "node",
+  "container": { "node": "18" },
+  "scripts": {
+    "start": "npm run dev"
+  }
+}
